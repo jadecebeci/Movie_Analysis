@@ -1,6 +1,6 @@
 # Microsoft Movie Analysis Project
 
-!https://github.com/yesimcebeci/Movie_Analysis_PROJECT_1/blob/main/images/microsoft.png
+![microsoft.png](https://github.com/yesimcebeci/Movie_Analysis_PROJECT_1/blob/main/images/microsoft.png)
 
 ## Project Overview
 
@@ -11,7 +11,7 @@ I decided to use data collected from IMDB and The Numbers (TN) and Box Office Mo
 
 For those 3 catagories I decided to sort by ROI, Budget and Numbers to make some prediction and recommendation
 
-![movie.png](attachment:movie.png)
+![movie.png](https://github.com/yesimcebeci/Movie_Analysis_PROJECT_1/blob/main/images/movie.png)
 
 ### Business Problem
 
@@ -42,19 +42,19 @@ In the folder `Data` are movie datasets from:
 ## Results
 
 
-![Top_5_Genres.png](attachment:Top_5_Genres.png)
+![Top_5_Genres.png](https://github.com/yesimcebeci/Movie_Analysis_PROJECT_1/blob/main/images/Top_5_Genres.png)
 
 
-![Top_5_Directors.png](attachment:Top_5_Directors.png)
+![Top_5_Directors.png](https://github.com/yesimcebeci/Movie_Analysis_PROJECT_1/blob/main/images/Top_5_Directors.png)
 
 
-![Top_5_Jason_Blum.png](attachment:Top_5_Jason_Blum.png)
+![Top_5_Jason_Blum.png](https://github.com/yesimcebeci/Movie_Analysis_PROJECT_1/blob/main/images/Top_5_Jason_Blum.png)
 
 
-![Top_5_Studios.png](attachment:Top_5_Studios.png)
+![Top_5_Studios.png](https://github.com/yesimcebeci/Movie_Analysis_PROJECT_1/blob/main/images/Top_5_Studios.png)
 
 
-![Top_5_Low_Budget_Genres_for_WB_Studio.png](attachment:Top_5_Low_Budget_Genres_for_WB_Studio.png)
+![Top_5_Low_Budget_Genres_for_WB_Studio.png](https://github.com/yesimcebeci/Movie_Analysis_PROJECT_1/blob/main/images/Top_5_Low_Budget_Genres_for_WB_Studio.png)
 
 
 
