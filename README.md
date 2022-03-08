@@ -1,6 +1,6 @@
 # Microsoft Movie Analysis Project
 
-![microsoft.png](attachment:microsoft.png)
+!https://github.com/yesimcebeci/Movie_Analysis_PROJECT_1/blob/main/images/microsoft.png
 
 ## Project Overview
 
